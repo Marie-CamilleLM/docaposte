@@ -1,5 +1,5 @@
 # docaposte
-Dans le dossier 'docaposte', il faut lancer :
+Dans le dossier 'docaposte', lancer :
 
 `php artisan migrate`  
 `php artisan serve`  
